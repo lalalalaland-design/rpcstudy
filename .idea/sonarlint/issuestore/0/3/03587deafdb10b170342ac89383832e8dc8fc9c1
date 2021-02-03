@@ -1,0 +1,13 @@
+
+e
+java:S2133	"CRemove this object instantiation and use "ArrayList.class" instead.(£Ğ¥Àùÿÿÿÿ8…˜š¯ö.
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Ğ¥Àùÿÿÿÿ8©™‘¯ö.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ïî²ùÿÿÿÿ8ìŞ¯ö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°áÍÖ8äÅ’¯ö.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(Â±†æüÿÿÿÿ8£Ò¯ö.
+e
+java:S2133"CRemove this object instantiation and use "ArrayList.class" instead.(²ïî²ùÿÿÿÿ8¹™Ÿ¯ö.
+]	java:S125"<This block of commented-out lines of code should be removed.(Š‚’Êÿÿÿÿÿ8¹™Ÿ¯ö.

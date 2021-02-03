@@ -1,0 +1,17 @@
+
+a
+java:S2147""DCombine this catch with the one at line 26, which has the same body.(åşáÿ8‰ø®ö.
+U
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(¤èšşÿÿÿÿ8‰ø®ö.
+a
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(Å¡ß8‰ø®ö.
+f
+java:S2147"DCombine this catch with the one at line 26, which has the same body.(¼¯•¶ùÿÿÿÿ8‰ø®ö.
+Q
+java:S3740"/Provide the parametrized type for this generic.(©Ú€‘øÿÿÿÿ8‰ø®ö.
+b
+java:S3252"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(Í®è8‰ø®ö.
+a
+java:S2147 "DCombine this catch with the one at line 26, which has the same body.(¯áè8‰ø®ö.
+£
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥Ò®¬úÿÿÿÿ8ß™Ô®ö.

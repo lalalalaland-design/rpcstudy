@@ -1,0 +1,11 @@
+
+f
+java:S3252"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ö˜¼Óùÿÿÿÿ8«Ùñö.
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Êû«”8â“úö.
+a
+java:S2259"FA "NullPointerException" could be thrown; "response" is nullable here.(Êû«”8†Ÿƒ‘ö.
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†Ÿƒ‘ö.
+_
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ä ¹€8†Ÿƒ‘ö.
